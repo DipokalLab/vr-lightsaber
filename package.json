@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
+    "postprocessing": "^6.37.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "three": "^0.176.0"
